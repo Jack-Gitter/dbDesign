@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3d15366-2efb-4149-984f-484540a10eb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j9gfsGW9hwJX63RngLoIwfiCyU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.2607422" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="jdbc.Main" />
+      <module name="dbDesign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3d15366-2efb-4149-984f-484540a10eb3" name="Default Changelist" comment="" />
+      <created>1603221827258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603221827258</updated>
+      <workItem from="1603221828583" duration="771000" />
+      <workItem from="1603222619976" duration="7000" />
+      <workItem from="1603222637902" duration="2000" />
+      <workItem from="1603474159230" duration="1000" />
+      <workItem from="1603474186408" duration="605000" />
+      <workItem from="1603474794881" duration="1000" />
+      <workItem from="1603474809114" duration="3000" />
+      <workItem from="1603474821707" duration="1000" />
+      <workItem from="1603474841832" duration="3000" />
+      <workItem from="1603474870390" duration="1000" />
+      <workItem from="1603474881314" duration="2000" />
+      <workItem from="1603474892367" duration="2000" />
+      <workItem from="1603474903561" duration="8000" />
+      <workItem from="1603474926021" duration="6000" />
+      <workItem from="1603835454339" duration="1442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603835978456">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="281" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603835978456" />
+    <state x="646" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603835566260">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="646" y="333" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603835566260" />
+    <state width="911" height="280" key="GridCell.Tab.0.bottom" timestamp="1603836733324">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1603836733324" />
+    <state width="911" height="280" key="GridCell.Tab.0.center" timestamp="1603836733323">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1603836733323" />
+    <state width="911" height="280" key="GridCell.Tab.0.left" timestamp="1603836733322">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1603836733322" />
+    <state width="911" height="280" key="GridCell.Tab.0.right" timestamp="1603836733323">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="911" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1603836733323" />
+    <state x="435" y="213" key="SettingsEditor" timestamp="1603836029036">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="435" y="213" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1603836029036" />
+    <state x="606" y="500" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603836020914">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="606" y="500" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.1027@0.23.1680.1027" timestamp="1603836020914" />
+  </component>
+</project>
